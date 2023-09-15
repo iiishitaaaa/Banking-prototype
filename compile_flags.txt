@@ -1,0 +1,3 @@
+-IC:\Users\KIIT\OneDrive\Desktop\Courses\C++\CodeLite\Inheritance
+-target
+
